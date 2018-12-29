@@ -1,2 +1,2 @@
 # ethereum-tokens
-A list of tokens living on the Ethereum blockchain by DAppBoard
+A repository of ERC20 Token information
