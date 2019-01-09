@@ -1,5 +1,6 @@
-# ethereum-tokens
-A repository of ERC20 Token information
+# Ethereum Metadata
+
+A repository containing a lot of metadata we scrapped for you. We are covering ERC20 and NFTs tokens and events signatures.
 
 ## Tokens
 
